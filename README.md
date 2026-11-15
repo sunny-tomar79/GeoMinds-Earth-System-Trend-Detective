@@ -3,6 +3,16 @@
 
 **Team GeoMinds**
 
+## 🚀 Live Demo
+
+<https://geominds-earth-system-trend-detective-l28lrkyrwseju3dz9uhh.streamlit.app/>
+
+**[Launch RainfallScope India Dashboard](https://geominds-earth-system-trend-detective-l28lrkyrwseju3dz9uhh.streamlit.app/)**
+
+Explore the interactive dashboard to investigate precipitation patterns, detect long-term trends and understand changes across India.
+
+---
+
 RainfallScope India is an interactive data exploration and statistical analysis dashboard developed for the NASA Space Apps Challenge 2026. It helps users investigate long-term precipitation patterns across India and understand **what is changing, where it is changing, how much it is changing, and whether the observed trends are statistically significant.**
 
 ## ✨ Key Features
