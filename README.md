@@ -5,9 +5,7 @@
 
 ## 🚀 Live Demo
 
-<https://geominds-earth-system-trend-detective-l28lrkyrwseju3dz9uhh.streamlit.app/>
-
-**[Launch RainfallScope India Dashboard](https://geominds-earth-system-trend-detective-l28lrkyrwseju3dz9uhh.streamlit.app/)**
+[Launch RainfallScope India Dashboard](https://geominds-earth-system-trend-detective-l28lxlrkyrwseju3dz9uhh.streamlit.app/)
 
 Explore the interactive dashboard to investigate precipitation patterns, detect long-term trends and understand changes across India.
 
